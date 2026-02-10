@@ -1,0 +1,44 @@
+{
+    "S954053": {
+        "full_name": "Jose Silva",
+        "grades": {
+            "Matem\u00e1tica - B\u00e1sico": 5.0,
+            "F\u00edsica - Conceitos": 5.0,
+            "Ingl\u00eas - B\u00e1sico": 9.0
+        },
+        "attempts": {
+            "Matem\u00e1tica - B\u00e1sico": 1,
+            "F\u00edsica - Conceitos": 1,
+            "Ingl\u00eas - B\u00e1sico": 2
+        }
+    },
+    "S145031": {
+        "full_name": "Danilo Gomes",
+        "grades": {
+            "Matem\u00e1tica - B\u00e1sico": 5.0,
+            "Geografia - Capitais": 10.0
+        },
+        "attempts": {
+            "Matem\u00e1tica - B\u00e1sico": 1,
+            "Geografia - Capitais": 1
+        }
+    },
+    "S590562": {
+        "full_name": "Ronaldo Rodrigues",
+        "grades": {
+            "Matem\u00e1tica - B\u00e1sico": 8.0
+        },
+        "attempts": {
+            "Matem\u00e1tica - B\u00e1sico": 3
+        }
+    },
+    "S085048": {
+        "full_name": "Guilherme Donatangelo Oliveira",
+        "grades": {
+            "Historia Recupera\u00e7\u00e3o": 10.0
+        },
+        "attempts": {
+            "Historia Recupera\u00e7\u00e3o": 1
+        }
+    }
+}

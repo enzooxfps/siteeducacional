@@ -1,0 +1,293 @@
+{
+    "Matem\u00e1tica - B\u00e1sico": {
+        "assigned_class": "Turma Exemplo",
+        "instructor_id": "SYSTEM",
+        "questions": {
+            "1": {
+                "text": "Quanto \u00e9 15 + 27?",
+                "A": "32",
+                "B": "42",
+                "C": "40",
+                "D": "35",
+                "E": "50",
+                "correct": "B"
+            },
+            "2": {
+                "text": "Qual a raiz quadrada de 144?",
+                "A": "10",
+                "B": "11",
+                "C": "12",
+                "D": "13",
+                "E": "14",
+                "correct": "C"
+            }
+        }
+    },
+    "Portugu\u00eas - Gram\u00e1tica": {
+        "assigned_class": "Turma Exemplo",
+        "instructor_id": "SYSTEM",
+        "questions": {
+            "1": {
+                "text": "Qual \u00e9 o sujeito da frase: 'O gato dormiu no sof\u00e1'?",
+                "A": "No sof\u00e1",
+                "B": "Dormiu",
+                "C": "O gato",
+                "D": "Gato",
+                "E": "O",
+                "correct": "C"
+            },
+            "2": {
+                "text": "Qual destas palavras est\u00e1 escrita corretamente?",
+                "A": "Exce\u00e7\u00e3o",
+                "B": "Ece\u00e7\u00e3o",
+                "C": "Ezce\u00e7\u00e3o",
+                "D": "Ecce\u00e7\u00e3o",
+                "E": "Exse\u00e7\u00e3o",
+                "correct": "A"
+            }
+        }
+    },
+    "Hist\u00f3ria - Geral": {
+        "assigned_class": "Turma Exemplo",
+        "instructor_id": "SYSTEM",
+        "questions": {
+            "1": {
+                "text": "Quem descobriu o Brasil?",
+                "A": "Crist\u00f3v\u00e3o Colombo",
+                "B": "Pedro \u00c1lvares Cabral",
+                "C": "Vasco da Gama",
+                "D": "Dom Pedro I",
+                "E": "Tiradentes",
+                "correct": "B"
+            },
+            "2": {
+                "text": "Em que ano a Segunda Guerra Mundial terminou?",
+                "A": "1939",
+                "B": "1940",
+                "C": "1942",
+                "D": "1945",
+                "E": "1950",
+                "correct": "D"
+            }
+        }
+    },
+    "Geografia - Capitais": {
+        "assigned_class": "Turma Exemplo",
+        "instructor_id": "SYSTEM",
+        "questions": {
+            "1": {
+                "text": "Qual a capital da Fran\u00e7a?",
+                "A": "Londres",
+                "B": "Berlim",
+                "C": "Madrid",
+                "D": "Paris",
+                "E": "Roma",
+                "correct": "D"
+            },
+            "2": {
+                "text": "Onde fica a Amaz\u00f4nia?",
+                "A": "\u00c1frica",
+                "B": "Europa",
+                "C": "Am\u00e9rica do Sul",
+                "D": "\u00c1sia",
+                "E": "Oceania",
+                "correct": "C"
+            }
+        }
+    },
+    "Ci\u00eancias - Corpo Humano": {
+        "assigned_class": "Turma Exemplo",
+        "instructor_id": "SYSTEM",
+        "questions": {
+            "1": {
+                "text": "Qual o maior \u00f3rg\u00e3o do corpo humano?",
+                "A": "F\u00edgado",
+                "B": "Cora\u00e7\u00e3o",
+                "C": "Pele",
+                "D": "Pulm\u00e3o",
+                "E": "C\u00e9rebro",
+                "correct": "C"
+            },
+            "2": {
+                "text": "Quantos ossos tem um adulto (aprox.)?",
+                "A": "100",
+                "B": "150",
+                "C": "206",
+                "D": "300",
+                "E": "500",
+                "correct": "C"
+            }
+        }
+    },
+    "F\u00edsica - Conceitos": {
+        "assigned_class": "Turma Exemplo",
+        "instructor_id": "SYSTEM",
+        "questions": {
+            "1": {
+                "text": "Qual \u00e9 a f\u00f3rmula da velocidade m\u00e9dia?",
+                "A": "V = d/t",
+                "B": "V = d*t",
+                "C": "V = t/d",
+                "D": "V = m*a",
+                "E": "V = m/v",
+                "correct": "A"
+            },
+            "2": {
+                "text": "A gravidade puxa os objetos para...",
+                "A": "Cima",
+                "B": "Lado",
+                "C": "Centro da Terra",
+                "D": "Espa\u00e7o",
+                "E": "Nenhuma das anteriores",
+                "correct": "C"
+            }
+        }
+    },
+    "Qu\u00edmica - Elementos": {
+        "assigned_class": "Turma Exemplo",
+        "instructor_id": "SYSTEM",
+        "questions": {
+            "1": {
+                "text": "Qual o s\u00edmbolo qu\u00edmico da \u00e1gua?",
+                "A": "CO2",
+                "B": "H2O",
+                "C": "O2",
+                "D": "NaCl",
+                "E": "H2",
+                "correct": "B"
+            },
+            "2": {
+                "text": "O que \u00e9 'Au' na tabela peri\u00f3dica?",
+                "A": "Prata",
+                "B": "Cobre",
+                "C": "Alum\u00ednio",
+                "D": "Ouro",
+                "E": "Arg\u00f4nio",
+                "correct": "D"
+            }
+        }
+    },
+    "Biologia - Seres Vivos": {
+        "assigned_class": "Turma Exemplo",
+        "instructor_id": "SYSTEM",
+        "questions": {
+            "1": {
+                "text": "O que as plantas usam para fazer fotoss\u00edntese?",
+                "A": "Apenas \u00e1gua",
+                "B": "Apenas terra",
+                "C": "Luz solar, \u00e1gua e CO2",
+                "D": "Vento",
+                "E": "Fogo",
+                "correct": "C"
+            },
+            "2": {
+                "text": "Qual destes \u00e9 um mam\u00edfero?",
+                "A": "Tubar\u00e3o",
+                "B": "\u00c1guia",
+                "C": "Baleia",
+                "D": "Sapo",
+                "E": "Cobra",
+                "correct": "C"
+            }
+        }
+    },
+    "Ingl\u00eas - B\u00e1sico": {
+        "assigned_class": "Turma Exemplo",
+        "instructor_id": "SYSTEM",
+        "questions": {
+            "1": {
+                "text": "Como se diz 'Vermelho' em ingl\u00eas?",
+                "A": "Blue",
+                "B": "Green",
+                "C": "Yellow",
+                "D": "Red",
+                "E": "Black",
+                "correct": "D"
+            },
+            "2": {
+                "text": "Traduza: 'The book is on the table'.",
+                "A": "O livro est\u00e1 sob a mesa",
+                "B": "O livro est\u00e1 sobre a mesa",
+                "C": "O livro est\u00e1 na cadeira",
+                "D": "A mesa est\u00e1 no livro",
+                "E": "O caderno \u00e9 azul",
+                "correct": "B"
+            }
+        }
+    },
+    "Artes - Cores e Formas": {
+        "assigned_class": "Turma Exemplo",
+        "instructor_id": "SYSTEM",
+        "questions": {
+            "1": {
+                "text": "Quais s\u00e3o as cores prim\u00e1rias?",
+                "A": "Verde, Roxo, Laranja",
+                "B": "Preto e Branco",
+                "C": "Azul, Amarelo, Vermelho",
+                "D": "Rosa, Cinza, Marrom",
+                "E": "Ciano, Magenta, Amarelo",
+                "correct": "C"
+            },
+            "2": {
+                "text": "Quem pintou a Mona Lisa?",
+                "A": "Van Gogh",
+                "B": "Picasso",
+                "C": "Leonardo da Vinci",
+                "D": "Michelangelo",
+                "E": "Donatello",
+                "correct": "C"
+            }
+        }
+    },
+    "Historia Recupera\u00e7\u00e3o": {
+        "assigned_class": "Historia Recupera\u00e7\u00e3o",
+        "instructor_id": "I803325",
+        "questions": {
+            "1": {
+                "text": " Qual evento hist\u00f3rico \u00e9 tradicionalmente considerado o marco inicial da Idade Contempor\u00e2nea, ocorrido em 1789?",
+                "A": "A Independ\u00eancia dos Estados Unidos",
+                "B": "A Revolu\u00e7\u00e3o Industrial",
+                "C": "A Revolu\u00e7\u00e3o Francesa",
+                "D": "A Queda de Constantinopla",
+                "E": "Independ\u00eancia do Brasil",
+                "correct": "C"
+            },
+            "2": {
+                "text": "Quem foi o respons\u00e1vel por proclamar a Independ\u00eancia do Brasil em 7 de setembro de 1822?",
+                "A": "Tiradentes",
+                "B": "Dom Pedro I",
+                "C": "Marechal Deodoro da Fonseca",
+                "D": "Dom Pedro II",
+                "E": "Dom Pedro III",
+                "correct": "B"
+            },
+            "3": {
+                "text": "A Guerra Fria (aprox. 1947\u20131991) foi um per\u00edodo de tens\u00e3o geopol\u00edtica entre quais duas superpot\u00eancias?",
+                "A": "Estados Unidos (EUA) e Uni\u00e3o Sovi\u00e9tica (URSS)",
+                "B": "Estados Unidos e Reino Unido",
+                "C": "Alemanha e Inglaterra",
+                "D": " China e Jap\u00e3o",
+                "E": "R\u00fassia e Jap\u00e3o",
+                "correct": "A"
+            },
+            "4": {
+                "text": " Em qual pa\u00eds teve in\u00edcio a Primeira Revolu\u00e7\u00e3o Industrial, em meados do s\u00e9culo XVIII?",
+                "A": "Estados Unidos",
+                "B": "Inglaterra",
+                "C": "Fran\u00e7a",
+                "D": "Alemanha",
+                "E": "Espanha",
+                "correct": "B"
+            },
+            "5": {
+                "text": " Qual foi o principal motivo para o fim da Segunda Guerra Mundial no front do Pac\u00edfico em 1945?",
+                "A": "A invas\u00e3o da Normandia (Dia D)",
+                "B": "O lan\u00e7amento das bombas at\u00f4micas em Hiroshima e Nagasaki",
+                "C": "A queda de Berlim",
+                "D": "A entrada da It\u00e1lia na guerra",
+                "E": "A morte de Arist\u00f3teles",
+                "correct": "B"
+            }
+        }
+    }
+}
